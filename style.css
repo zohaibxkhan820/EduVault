@@ -6,4 +6,6 @@ h1{
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: aqua;
+    margin: 30px;
+    padding: 20px;
 }
